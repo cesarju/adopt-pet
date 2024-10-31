@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Fido",
+    "species": "Perro",
+    "adopted": false,
+    "img": "https://imgs.search.brave.com/DTgsqKBETSBVMDXKn-H38EXvPBXr1LxEG3WcgJrVi2g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bXV5aW50ZXJlc2Fu/dGUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9zaXRlcy81LzIw/MjMvMDgvMDQvNjRj/Y2QzNjQ0NTdkNC5q/cGVnP3c9NTUwJmg9/MzA5JmNyb3A9MQ"
+  },
+  {
+    "id": 2,
+    "name": "Mittens",
+    "species": "Gato",
+    "adopted": true,
+    "img": "https://imgs.search.brave.com/8dP7ywejwEcWCAF7z7O8ZYFOT5y1jLrneStghF9nZo0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lc2Jvbml0YXMu/Ym9zcXVlZGVmYW50/YXNpYXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE1LzA4/L2ltJUMzJUExZ2Vu/ZXMtZGUtZ2F0b3Mz/LTQwMHgyODQuanBn"
+  },
+  {
+    "id": 3,
+    "name": "Goldie",
+    "species": "Perro",
+    "adopted": false,
+    "img": "https://imgs.search.brave.com/_OEACjwIiz2_pKwUkWMLH45dyniTbO4-X5mHYBPwgnc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS92aWVqby1idWxs/ZG9nLWluZ2xlcy1t/ZS1tdWVzdHJhLXBl/cnJvcy1wZXF1ZW5v/cy1jYWNob3Jyb3Mt/bWluaS1kYWNoc2h1/bmQtY2VyY2EtbWkt/cGVycm8tc2liZXJp/YW5vXzEwNzI4NzAt/MzkzODcuanBnP3Np/emU9NjI2JmV4dD1q/cGc"
+  }
+]
